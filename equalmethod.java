@@ -1,7 +1,7 @@
 public class equalmethod {
     public static void main(String[] args) {
 
-        String a = "Java";
+        String a = "abhishek";
         String b = "Java";
               String c = "abhishek";
 
