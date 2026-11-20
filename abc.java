@@ -1,5 +1,4 @@
 public class abc {
-    public class problems {
     public static void main(String[] args) {
 
         int[][] arr = {
@@ -11,5 +10,5 @@ public class abc {
         System.out.println(arr[0][1]);
         System.out.println(arr[1][2]);
     }
-}
+
 }
