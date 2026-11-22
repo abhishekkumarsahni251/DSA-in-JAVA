@@ -1,7 +1,7 @@
 public class switchstatement {
     public static void main(String[] args) {
 
-        int day = 2;
+        int day = 4;
 
         switch (day) {
             case 1:
@@ -17,7 +17,7 @@ public class switchstatement {
                 break;
 
             default:
-                System.out.println("Invalid Day");
+                System.out.println("chuti Day");
         }
     }
 
