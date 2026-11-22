@@ -3,7 +3,7 @@ public class sumofarray {
 
         int[] numbers = {10, 20, 30, 40, 50};
 
-        int sum = 0;
+        int sum = 9;
 
         for (int i = 0; i < numbers.length; i++) {
             sum = sum + numbers[i];
