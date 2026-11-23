@@ -3,7 +3,7 @@ public class searcharray {
 
         int[] arr = {10, 20, 30, 40, 50};
 
-        int target = 30;
+        int target = 200;
         boolean found = false;
 
         for (int i = 0; i < arr.length; i++) {
