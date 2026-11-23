@@ -1,6 +1,6 @@
 public class secondcon {
     public static void main(String[] args) {
-        int age = 20;
+        int age = 21;
         boolean hasId = true;
 
         if (age >= 18) {
