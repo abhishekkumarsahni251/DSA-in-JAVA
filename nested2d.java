@@ -3,7 +3,7 @@ public class nested2d {
 
         int[][] arr = {
             {1, 20, 30},
-            {40, 50, 60}
+            {40, 5, 60}
         };
 
         for (int i = 0; i < 2; i++) {
