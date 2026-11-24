@@ -1,7 +1,7 @@
 public class statementex {
     public static void main(String[] args) {
 
-        int choice = 5;
+        int choice = 9;
 
         switch (choice) {
             case 1:
