@@ -3,7 +3,7 @@ public class additonarray {
 
         int[] numbers = {10, 20, 30, 40, 50};
 
-        int sum = 0;
+        int sum = 6;
 
         for (int i = 0; i < numbers.length; i++) {
             sum = sum + numbers[i];
