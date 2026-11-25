@@ -1,7 +1,7 @@
 public class string {
     public static void main(String[] args) {
 
-        String name = "Abhishek,kjl";
+        String name = "Abhishek, miss kjl";
         String city = "Darbhanga";
 
         System.out.println(name);
