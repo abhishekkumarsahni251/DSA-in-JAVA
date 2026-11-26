@@ -1,7 +1,7 @@
 public class arraymaximum {
     public static void main(String[] args) {
 
-        int[] numbers = {10, 50, 30, 90, 20};
+        int[] numbers = {10, 50, 3, 90, 20};
 
         int max = numbers[0];
 
